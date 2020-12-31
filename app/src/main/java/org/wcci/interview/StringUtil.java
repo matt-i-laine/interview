@@ -11,4 +11,6 @@ public final class StringUtil {
 // TODO: Use Java Stream API to reverse string if you really want to impress your potential employer.
 
 // Another Challenge TODO: Count all A's, B's, C's, etc. in a string and print the count out in an alphabetically ordered list of pairs.
+
+// Yet another challenge: TODO: learn about SQUASHING!!!
 }
